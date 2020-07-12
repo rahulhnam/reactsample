@@ -13,7 +13,6 @@ function App() {
         <a
           className="App-link"
           href="https://webbedsample.web.app/"
-          target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
